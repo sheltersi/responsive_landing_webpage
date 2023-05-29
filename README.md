@@ -9,9 +9,7 @@ its a responsive landing page using tailwindcss and javascript
 
 ![1stmobile](https://github.com/sheltersi/responsive_landing_webpage/assets/100737836/023b9432-e1ec-42e9-8f0b-2e0c8a0c13b4)
 
-# View after clicking the hamburger Menu 
-on a small-screen device
-
+# View after clicking the hamburger Menu on a small-screen device
 ![2mobile-page](https://github.com/sheltersi/responsive_landing_webpage/assets/100737836/75a9bb2e-9efa-4a43-b55f-197c7bcd3e5a)
 
 # View on a medium screen device
