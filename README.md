@@ -18,5 +18,6 @@ its a responsive landing page using tailwindcss and javascript
 
 # Other parts of the Web Page
 ![2part](https://github.com/sheltersi/responsive_landing_webpage/assets/100737836/a1bb54ba-d4d4-47d3-a439-32f417ced109)
-![3part](https://github.com/sheltersi/responsive_landing_webpage/assets/100737836/70def185-3372-4b59-ad8e-e61fc1fc6d41)
+![3parts](https://github.com/sheltersi/responsive_landing_webpage/assets/100737836/0e7623ac-e615-4880-ab1d-90a758d0d6fb)
+
 ![5part](https://github.com/sheltersi/responsive_landing_webpage/assets/100737836/111057ee-a3bf-4197-a1a1-33d25d6c3e97)
